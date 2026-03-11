@@ -1,0 +1,6 @@
+flask
+firebase-admin
+numpy
+scipy
+flask-cors
+gunicorn
