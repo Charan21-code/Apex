@@ -4,7 +4,7 @@
 
 Apex is a premium, gamified personal growth dashboard designed to help you master your habits, finances, and clarity of mind. It combines rigorous tracking with AI-powered coaching to keep you aligned with your "North Star" goal.
 
-![Apex Logo](/apex-logo.jpg)
+![Apex Logo](Frontend/apex-logo.jpg)
 
 ## 🌟 Key Features
 
