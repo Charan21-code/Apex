@@ -1,0 +1,39 @@
+# Root .gitignore for Apex project
+
+# Dependencies
+node_modules/
+Frontend/node_modules/
+Backend/node_modules/
+
+# Build outputs
+dist/
+Frontend/dist/
+Backend/dist/
+'dist'/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+Frontend/.env.local
+
+# Sensitive files
+firebase-service-account.json
+
+# Firebase
+.firebase/
+.firebaserc
+
+# Python
+__pycache__/
+*.py[cod]
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+Thumbs.db
+.DS_Store
