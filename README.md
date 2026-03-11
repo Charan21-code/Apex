@@ -1,10 +1,13 @@
 # Apex 🚀
 
-**Target Your Peak. Architect Your Life.**
+
+
+<p align="center">
+  <img src="Frontend/apex-logo.jpg" alt="Project Logo" width="150" height="150"/>
+  <h1 align="center">**Target Your Peak. Architect Your Life.**</h1>
+</p>
 
 Apex is a premium, gamified personal growth dashboard designed to help you master your habits, finances, and clarity of mind. It combines rigorous tracking with AI-powered coaching to keep you aligned with your "North Star" goal.
-
-![Apex Logo](Frontend/apex-logo.jpg)
 
 ## 🌟 Key Features
 
